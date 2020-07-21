@@ -1,0 +1,7 @@
+.UserOutput {
+    width: 30%;
+    border: 2px dotted black;
+    margin: 10px auto;
+    background : #eeccff;
+    font: inherit;
+  }
