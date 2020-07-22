@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/base-syntax-assignment/static/css/main.a7a23b73.chunk.css",
+    "main.css": "/base-syntax-assignment/static/css/main.e70650ea.chunk.css",
     "main.js": "/base-syntax-assignment/static/js/main.8112c636.chunk.js",
     "main.js.map": "/base-syntax-assignment/static/js/main.8112c636.chunk.js.map",
     "runtime-main.js": "/base-syntax-assignment/static/js/runtime-main.348c65d7.js",
@@ -8,15 +8,15 @@
     "static/js/2.afe130fa.chunk.js": "/base-syntax-assignment/static/js/2.afe130fa.chunk.js",
     "static/js/2.afe130fa.chunk.js.map": "/base-syntax-assignment/static/js/2.afe130fa.chunk.js.map",
     "index.html": "/base-syntax-assignment/index.html",
-    "precache-manifest.b9a49a5dab4550db8aa5aacbda2b316b.js": "/base-syntax-assignment/precache-manifest.b9a49a5dab4550db8aa5aacbda2b316b.js",
+    "precache-manifest.53608c9bc0662234e93487a1713ac768.js": "/base-syntax-assignment/precache-manifest.53608c9bc0662234e93487a1713ac768.js",
     "service-worker.js": "/base-syntax-assignment/service-worker.js",
-    "static/css/main.a7a23b73.chunk.css.map": "/base-syntax-assignment/static/css/main.a7a23b73.chunk.css.map",
+    "static/css/main.e70650ea.chunk.css.map": "/base-syntax-assignment/static/css/main.e70650ea.chunk.css.map",
     "static/js/2.afe130fa.chunk.js.LICENSE.txt": "/base-syntax-assignment/static/js/2.afe130fa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.348c65d7.js",
     "static/js/2.afe130fa.chunk.js",
-    "static/css/main.a7a23b73.chunk.css",
+    "static/css/main.e70650ea.chunk.css",
     "static/js/main.8112c636.chunk.js"
   ]
 }
