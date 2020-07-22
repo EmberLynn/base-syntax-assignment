@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/base-syntax-assignment/static/css/main.ca66711f.chunk.css",
+    "main.js": "/base-syntax-assignment/static/js/main.28f8efdb.chunk.js",
+    "main.js.map": "/base-syntax-assignment/static/js/main.28f8efdb.chunk.js.map",
+    "runtime-main.js": "/base-syntax-assignment/static/js/runtime-main.348c65d7.js",
+    "runtime-main.js.map": "/base-syntax-assignment/static/js/runtime-main.348c65d7.js.map",
+    "static/js/2.afe130fa.chunk.js": "/base-syntax-assignment/static/js/2.afe130fa.chunk.js",
+    "static/js/2.afe130fa.chunk.js.map": "/base-syntax-assignment/static/js/2.afe130fa.chunk.js.map",
+    "index.html": "/base-syntax-assignment/index.html",
+    "precache-manifest.c9556a1bc2fc1460fbdbc866a94575ca.js": "/base-syntax-assignment/precache-manifest.c9556a1bc2fc1460fbdbc866a94575ca.js",
+    "service-worker.js": "/base-syntax-assignment/service-worker.js",
+    "static/css/main.ca66711f.chunk.css.map": "/base-syntax-assignment/static/css/main.ca66711f.chunk.css.map",
+    "static/js/2.afe130fa.chunk.js.LICENSE.txt": "/base-syntax-assignment/static/js/2.afe130fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.348c65d7.js",
+    "static/js/2.afe130fa.chunk.js",
+    "static/css/main.ca66711f.chunk.css",
+    "static/js/main.28f8efdb.chunk.js"
+  ]
+}
