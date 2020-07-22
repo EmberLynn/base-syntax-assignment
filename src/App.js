@@ -16,9 +16,18 @@ class App extends Component {
 
   render () {
 
+    const textStyle = {
+      backgroundColor: 'grey',
+      border: '2px solid black',
+      alignItems: 'center'
+    };
+
     return (
       <div className="App">
-        <UserInput changeName={this.nameChangeHandler} username={this.state.name}/>
+        <div style={textStyle}>
+          <UserInput 
+          changeName={this.nameChangeHandler} username={this.state.name}/>
+        </div>
         <UserOutput username={this.state.name}/>
         <UserOutput username={this.state.name}/>
         <UserOutput username={this.state.name}/>
